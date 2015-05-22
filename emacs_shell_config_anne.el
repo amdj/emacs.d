@@ -1,4 +1,4 @@
-(add-to-list 'load-path "~/.emacs.d/emacs-bash-completion")
+(add-to-list 'load-path "~/.emacs.d/plugins_anne/emacs-bash-completion")
 (require 'bash-completion)
 (bash-completion-setup)
 
