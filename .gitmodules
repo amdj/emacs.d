@@ -4,3 +4,6 @@
 [submodule "plugins_anne/org2blog"]
 	path = plugins_anne/org2blog
 	url = http://github.com/punchagan/org2blog.git
+[submodule "plugins_anne/emacs-bash-completion"]
+	path = plugins_anne/emacs-bash-completion
+	url = https://github.com/szermatt/emacs-bash-completion
